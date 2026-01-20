@@ -1,0 +1,7 @@
+{
+  "name": "發票小助手 - Invoice Assistant",
+  "description": "一個智慧發票管理工具，可透過拍照或上傳發票自動辨識資訊，支援多張上傳、手動編輯、資料表格化及 CSV/Excel 匯出功能。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
